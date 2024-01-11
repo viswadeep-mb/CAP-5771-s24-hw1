@@ -1,4 +1,5 @@
 def question2_1():
+    # answer = ['string', 'string', 'string']
     return answer
 
 def question2_2():

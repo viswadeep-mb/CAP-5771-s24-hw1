@@ -22,3 +22,5 @@ who will handle these edge cases.
 
 In later homeworks, there might be less structural checks, which will require you to carefully 
 read the homework, since the chance for needless errors will increase. 
+
+NOTE: there is no Question 1. 

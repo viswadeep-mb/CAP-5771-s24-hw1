@@ -1,4 +1,7 @@
 def question9_1():
+    """
+    answer = string'
+    """
     return answer
 
 def question9_2():

@@ -1,4 +1,7 @@
 def question10_1():
+    """
+    answer: python bool (True or False)
+    """
     return answer
 
 def question10_2():
