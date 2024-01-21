@@ -1,7 +1,7 @@
 def question6_1():
     """
     answer = {
-        'equal_width': ['string', integer]
+        'equal_width': ['string', integer],
         'equal_frequency': ['string', integer]
     }
     """
