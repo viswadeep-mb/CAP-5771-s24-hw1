@@ -1,13 +1,13 @@
 def question7_1():
-
-    answer = 'decrease'
-    
+    """
+    answer = 'string'
+    """
     return answer
 
 def question7_2():
-    
-    answer = 'increase'
-    
+    """
+    answer = 'string'
+    """
     return answer
 
 def question7_3():
