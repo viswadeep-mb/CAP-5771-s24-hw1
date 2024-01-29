@@ -3,11 +3,11 @@ def question3_1():
     return answer
 
 def question3_2():
-    answer = ['discrete', 'quanlitative', 'ordinal']
+    answer = ['discrete', 'qualitative', 'ordinal']
     return answer
 
 def question3_3():
-    answer = ['discrete', 'quanlitative', 'ordinal']
+    answer = ['discrete', 'qualitative', 'ordinal']
     return answer 
 
 def question3_4():
@@ -15,11 +15,11 @@ def question3_4():
     return answer
 
 def question3_5():
-    answer = ['discrete', 'quanlitative', 'nominal']
+    answer = ['discrete', 'qualitative', 'nominal']
     return answer
 
 def question3_6():
-    answer = ['discrete', 'quanlitative', 'ordinal']
+    answer = ['discrete', 'qualitative', 'ordinal']
     return answer
 
 def question3_7():
@@ -27,5 +27,5 @@ def question3_7():
     return answer
 
 def question3_8():
-    answer = ['discrete', 'quanlitative', 'ordinal']
+    answer = ['discrete', 'qualitative', 'ordinal']
     return answer
