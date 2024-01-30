@@ -11,10 +11,5 @@ def question7_2():
     return answer
 
 def question7_3():
-    
-    answer = [('-infinity', 0.), (1., 3.),(4.,5.), (6., 'infinity')]
-    """
-    The representation of inifinity is 'infinity'. 
-    bi, ei are floats or 'infinity'. 
-    """
+    answer = [(0., 2.), (2., 4.), (4.,6.),(6., 'infinity')]
     return answer 
